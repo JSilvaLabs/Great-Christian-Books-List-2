@@ -1,12 +1,9 @@
-# Great-Christian-Books-List-1
+## Great-Christian-Books-List-1
 Instant Access to free online Christian Resources. 
 
 
-  Language Choice: 
-  https://mh316.com/
-
-  Free English Books: 
-  https://mh316.com/free-english-books
+1. [Myrtlefield House International-Language Choice](https://mh316.com/)
+   -[Free English Books](https://mh316.com/free-english-books)
 
 Bringing us to Glory: Daily Readings for the Christian Journey - David Gooding:
 https://static1.squarespace.com/static/5ff45bf022d6d7736e1b826a/t/65d5ed896d5d4a0f4aab769c/1708518801092/bringing-us-to-glory-kdp.pdf
